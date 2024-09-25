@@ -7,7 +7,7 @@
  
 <h1 align="center"> RevoltShing </h1>
 <p align="center">
-  <img src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/rv1.png" width="100%">
+  <img alt="RevoltShing001" src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/rv1.png" width="100%">
 </p>
 
 <p> 
@@ -45,13 +45,10 @@
 
 <p>
 <h3 align="center"> Screeshot </h3>
- <img src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/RV2.png" width="100%">
+ <img alt="RevoltShing002" src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/RV2.png" width="100%">
 </p>
 
 <p>
 <h5 align="center"> Paypal Donations to the coders<br>
 <br>https://www.paypal.me/AngelSecurityTeam</h5>
 </p>
-
-</body>
-</html>
