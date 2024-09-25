@@ -6,36 +6,37 @@
 🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
  ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
  ░█░█░█▀█░█░█░▀▀█░░█░<br> 
- ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br></h1>
  
- RevoltShing </h1>
-
-<img src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/rv1.png">
-
-<h4 align="center"><i> REVOLTSHING v.2 - FRAMEWORK IS A COMPLETE PHISHING SYSTEM. <br>
+<h1 align="center"> RevoltShing </h1>
+</p>
+<p>
+ <img href="RevoltShîng" src="https://github.com/R4GN4R0K-SEC/RevoltShing/blob/master/rv1.png">
+ <h4 align="center"><i> REVOLTSHING v.2 - FRAMEWORK IS A COMPLETE PHISHING SYSTEM.<br>
  IT ALLOWS YOU TO CREATE WEBSITES WITH THE OBJECTIVE OF OBTAINING CREDENTIALS</i></h4>
+  </br>
+ </p>
+</head>
+<body>
+ <h2> Mode Of Execution: </h2>
+  <p>
+   
+* apt-get install python3<br>
 
-</br>
+* apt-get install git<br> 
 
-<h2> Mode Of Execution: </h2>
+* git clone https://github.com/R4GN4R0K-SEC/RevoltShing<br>
 
-* apt-get install python3
+* cd RevoltShing<br>
 
-* apt-get install git 
+* bash install.sh<br>
 
-* git clone https://github.com/R4GN4R0K-SEC/RevoltShing
+* python3 Server.py<br>
 
-* cd RevoltShing
-
-* bash install.sh
-
-* python3 Server.py
-
-* python3 revoltshing.py
-
-</br>
+* python3 revoltshing.py<br></p>
 
 <h2> TERMUX </h2>
+  <p>
 
 * pkg install git
 
@@ -57,16 +58,15 @@
 
 * python3 Server.py
 
-* python3 revoltshing.py
+* python3 revoltshing.py</br></p>
 
-</br>
-
-<h3> RevoltShing </h3>
-
-<img src="https://github.com/AngelSecurityTeam/RevoltShing/blob/master/RV2.png">
-
-</br>
-
-<h5 align="center"> Paypal Donations to the coders <br></br>
- 
- https://www.paypal.me/AngelSecurityTeam </h5>
+  <p>
+   <h3 align="center"> Screeshot </h3>
+   <img src="https://github.com/AngelSecurityTeam/RevoltShing/blob/master/RV2.png">
+  </br>
+  <p>
+   <h5 align="center"> Paypal Donations to the coders<br>
+   <br>https://www.paypal.me/AngelSecurityTeam</h5>
+  </p>
+  </body>
+</html>
